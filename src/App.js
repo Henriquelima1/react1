@@ -1,9 +1,11 @@
 import "./styles.css";
 
+import Navbar from "./components/Navbar/Navbar.js";
+
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
+      <Navbar />
       <ul>
         <li>teste</li>
         <li>henrique</li>
