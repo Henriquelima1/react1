@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <Navbar />
       <ul>
-        <li>teste</li>
+        <li>teste2</li>
         <li>henrique</li>
       </ul>
     </div>
